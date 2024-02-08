@@ -1,6 +1,6 @@
 - Data Analyst in Training
 - Passion for Numbers and Data
-- CUrrently working on an Analysis of Music Listerning Habits
+- Currently working on an Analysis of Music Listerning Habits
 
 <!--
 **LADevlin/LADevlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
